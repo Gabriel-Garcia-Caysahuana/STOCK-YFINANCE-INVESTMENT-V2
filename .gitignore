@@ -1,0 +1,6 @@
+.venv/
+__pycache__
+informe_analisis_inversion.docx
+data_download.xlsx
+
+informe.docx
